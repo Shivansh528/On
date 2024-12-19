@@ -1,0 +1,47 @@
+# Online Healthcare Management System
+
+## Table of Contents  
+- [Project Overview](#project-overview)  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Setup and Installation](#setup-and-installation)  
+- [Usage](#usage)  
+- [Screenshots](#screenshots)  
+- [License](#license)  
+- [Contact](#contact)  
+
+---
+
+## Project Overview  
+
+The **Online Healthcare Management System** is a responsive and interactive web application designed to streamline healthcare services. It enables patients to book appointments, doctors to manage their schedules, and healthcare administrators to handle medical records seamlessly.
+
+---
+
+## Features  
+
+- **Dynamic Greeting**: Displays a greeting message based on the current time of day (e.g., Good Morning/Afternoon/Evening).  
+- **Smooth Navigation**: Users can smoothly scroll to sections using the responsive navigation bar.  
+- **Bootstrap Modal**: Provides additional information via a modal popup without navigating away.  
+- **Dynamic Alerts**: Alerts are dynamically generated for user interactions (e.g., form submissions).  
+- **Responsive Design**: The application is fully responsive across devices (desktop, tablet, and mobile).  
+
+---
+
+## Technologies Used  
+
+- **HTML5**: Markup language for structuring the web application.  
+- **CSS3**: Styling for the user interface.  
+- **Bootstrap 5**: Framework for responsive layout and prebuilt components.  
+- **JavaScript (ES6)**: For dynamic interactivity and functionality.  
+- **FontAwesome** (Optional): Icons for improved UI/UX.  
+
+---
+
+## Setup and Installation  
+
+Follow the steps below to set up the project locally:
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/online-healthcare-system.git
