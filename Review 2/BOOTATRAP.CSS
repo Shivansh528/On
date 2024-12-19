@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Online Healthcare Management System</title><!-- Bootstrap CSS --><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"><!-- Custom CSS --><style>
+/* Header Section */
+
+header {
+    background-color: #009688;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0;
+}
+
+
+/* Navbar Styling */
+
+.navbar {
+    background-color: #00796B;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #B2DFDB !important;
+}
+
+
+/* Section Styling */
+
+section {
+    padding: 40px 0;
+}
+
+
+/* Services Styling */
+
+.service-card {
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.service-card:hover {
+    transform: scale(1.05);
+}
+
+
+/* Footer Styling */
+
+footer {
+    background-color: #004D40;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+</style></head><body><!-- Header --><header><h1>Online Healthcare Management System</h1><p>Your one-stop platform for healthcare services</p></header><!-- Navbar --><nav class="navbar navbar-expand-lg"><div class="container"><a class="navbar-brand text-white fw-bold" href="#">Healthcare</a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav ms-auto"><li class="nav-item"><a class="nav-link" href="#home">Home</a></li><li class="nav-item"><a class="nav-link" href="#services">Services</a></li><li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li></ul></div></div></nav><!-- Home Section --><section id="home" class="text-center bg-light"><div class="container"><h2>Welcome to Our Healthcare System</h2><p class="lead">We provide reliable healthcare solutions for patients,
+doctors,
+and administrators.</p></div></section><!-- Services Section --><section id="services"><div class="container text-center"><h2 class="mb-4">Our Services</h2><div class="row"><div class="col-md-4 mb-4"><div class="card service-card p-3"><h3>Doctor Appointment</h3><p>Book appointments with verified doctors online.</p></div></div><div class="col-md-4 mb-4"><div class="card service-card p-3"><h3>Patient Records</h3><p>Securely manage and access patient medical records.</p></div></div><div class="col-md-4 mb-4"><div class="card service-card p-3"><h3>Health Monitoring</h3><p>Track and monitor health metrics in real-time.</p></div></div></div></div></section><!-- Contact Section --><section id="contact" class="bg-light text-center"><div class="container"><h2>Contact Us</h2><p class="lead">Email: support@healthcare.com | Phone:+1 234 567 890</p></div></section><!-- Footer --><footer><p>&copy;
+2024 Online Healthcare Management System. All rights reserved.</p></footer><!-- Bootstrap JS Bundle --><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script></body></html>
